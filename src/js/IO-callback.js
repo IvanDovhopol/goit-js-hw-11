@@ -34,4 +34,4 @@ const callback = async (entries, observer) => {
   });
 };
 
-export default IO = new IntersectionObserver(callback, options);
+export const IO = new IntersectionObserver(callback, options);
