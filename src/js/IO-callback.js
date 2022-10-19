@@ -3,6 +3,7 @@ import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import clearPage from './clear-page';
 import createMarkup from './create-markup';
 import onOpenModalWindow from '../index';
+import { refs } from './refs';
 
 const options = {
   root: null,
