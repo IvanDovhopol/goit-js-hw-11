@@ -2,7 +2,7 @@ import PixabayAPI from './js/PixabayAPI';
 import createMarkup from './js/create-markup';
 import clearPage from './js/clear-page';
 import { IO } from './js/IO-callback';
-import refs from './js/refs';
+import { refs } from './js/refs';
 import './sass/index.scss';
 
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
